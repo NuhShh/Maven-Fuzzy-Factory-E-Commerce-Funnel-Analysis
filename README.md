@@ -10,6 +10,11 @@
 
 Maven Fuzzy Factory, an e-commerce toy store, needed to understand where users were dropping off in their online purchase journey. Using SQL and Power BI, the analysis revealed that the largest opportunity lies at the "Add to Cart" stage, where significant user drop-off occurs. The analysis also identified a notable conversion gap between mobile and desktop users. Based on these findings, focusing on cart abandonment recovery and optimizing the mobile shopping experience can increase overall conversion rates and revenue.
 
+Metrics:
+1. **Funnel Analysis** – Tracking user flow from landing through each stage: product viewing, add to cart, shipping, billing, and purchase completion.
+2. **Device Breakdown** – Performance comparison between Desktop and Mobile users.
+3. **Product Performance** – Revenue share and refund rates by product to identify quality concerns.
+
 ---
 
 ### Business Problem
